@@ -1,6 +1,6 @@
 <template>
   <section class="i-menu">
-    <el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" @select="handleSelect">
+    <el-menu :default-active="activeIndex" class="el-menu-no-bottom-border" mode="horizontal" @select="handleSelect">
       <el-menu-item index="1">处理中心</el-menu-item>
       <el-submenu index="2">
         <template slot="title">我的工作台</template>
@@ -39,5 +39,8 @@ export default {
 <style scoped>
 .i-menu {
   margin-top: -1px;
+}
+.i-menu .el-menu-no-bottom-border {
+  border-width: 0px;
 }
 </style>
