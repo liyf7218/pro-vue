@@ -1,6 +1,67 @@
 <template>
   <section class="main">
-    main
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
+    {{msg}}
   </section>
 </template>
 
@@ -9,7 +70,7 @@ export default {
   name: 'iMain',
   data () {
     return {
-      msg: 'this is the iMain.'
+      msg: 'this is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\n'
     }
   }
 }
