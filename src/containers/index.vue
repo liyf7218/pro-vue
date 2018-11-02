@@ -7,7 +7,7 @@
 
     <el-container class='sub-container'>
       <!-- aside -->
-      <el-aside width="240px">
+      <el-aside width="260px">
         <i-aside />
       </el-aside>
 
