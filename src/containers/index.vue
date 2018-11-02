@@ -68,23 +68,12 @@ export default {
 }
 
 .sub-container {
-  height: calc(100% - 80px);
-  margin-top: 80px;
+  margin-top: 70px;
+  margin-bottom: 30px;
 }
 
-/*.sub-container .el-aside {
-  width: 240px;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  margin-top: 80px;
-  transition: padding-top .3s;
-}*/
-
-/*.context-container {
-  padding-left: 270px;
-  padding-bottom: 100px;
-  box-sizing: border-box;
-}*/
+.sub-container .el-aside {
+  border-right: 1px solid lightsteelblue;
+}
 
 </style>

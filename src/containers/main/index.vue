@@ -1,67 +1,6 @@
 <template>
   <section class="main">
     {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
-    {{msg}}
   </section>
 </template>
 
@@ -70,12 +9,14 @@ export default {
   name: 'iMain',
   data () {
     return {
-      msg: 'this is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\nthis is the iMain.\n'
+      msg: 'this is the iMain.'
     }
   }
 }
 </script>
 
 <style scoped>
-
+.main {
+    min-height: 600px;
+}
 </style>

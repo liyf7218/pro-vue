@@ -1,46 +1,6 @@
 <template>
   <section class="aside">
   	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
-  	{{msg}}
   </section>
 </template>
 
@@ -55,5 +15,7 @@ export default {
 </script>
 
 <style scoped>
-
+.aside {
+  padding: 20px 0 20px 15px;
+}
 </style>
